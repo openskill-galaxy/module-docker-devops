@@ -1,0 +1,41 @@
+{
+  "id": "mod-docker-devops",
+  "slug": "module-docker-devops",
+  "title": "Docker 与 DevOps 工程实践",
+  "subtitle": "面向开发运维和全栈学习者",
+  "description": "面向开发运维和全栈学习者的Docker镜像容器DockerfileCompose网络CI/CDActions部署排错与DevOps工程实践训练模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "Docker",
+    "DevOps",
+    "容器",
+    "Dockerfile",
+    "Docker Compose",
+    "CI/CD",
+    "GitHub Actions",
+    "部署"
+  ],
+  "estimatedHours": 160,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🐳",
+  "repoUrl": "https://github.com/openskill-galaxy/module-docker-devops",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 740,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 149
+  }
+}

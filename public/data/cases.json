@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "dk-case-001",
+    "title": "Docker安装案例1",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001345",
+      "dk-q-001288",
+      "dk-q-000503"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-002",
+    "title": "运行Nginx案例2",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001615",
+      "dk-q-000437",
+      "dk-q-001666"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-003",
+    "title": "运行MySQL案例3",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001196",
+      "dk-q-002476",
+      "dk-q-000977"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-004",
+    "title": "构建Node镜像案例4",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000137",
+      "dk-q-003082",
+      "dk-q-001621"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-005",
+    "title": "构建SpringBoot镜像案例5",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000119",
+      "dk-q-002930",
+      "dk-q-000604"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-006",
+    "title": "前端静态站点案例6",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002112",
+      "dk-q-000712",
+      "dk-q-000445"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-007",
+    "title": "Dockerfile优化案例7",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001713",
+      "dk-q-001516",
+      "dk-q-002231"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-008",
+    "title": "多阶段构建案例8",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001694",
+      "dk-q-001925",
+      "dk-q-001642"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-009",
+    "title": "volume持久化案例9",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001541",
+      "dk-q-000303",
+      "dk-q-003243"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-010",
+    "title": "网络连接案例10",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002679",
+      "dk-q-001408",
+      "dk-q-000543"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-011",
+    "title": "Compose编排案例11",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003397",
+      "dk-q-000340",
+      "dk-q-000374"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-012",
+    "title": "日志查看案例12",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001140",
+      "dk-q-001487",
+      "dk-q-002539"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-013",
+    "title": "容器进入案例13",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002842",
+      "dk-q-001827",
+      "dk-q-001494"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-014",
+    "title": "端口冲突案例14",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002507",
+      "dk-q-001313",
+      "dk-q-002977"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-015",
+    "title": "环境变量案例15",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003092",
+      "dk-q-002928",
+      "dk-q-003587"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-016",
+    "title": "Actions构建镜像案例16",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003436",
+      "dk-q-003138",
+      "dk-q-003625"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-017",
+    "title": "部署排错案例17",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002636",
+      "dk-q-000896",
+      "dk-q-002138"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-018",
+    "title": "Docker安装案例18",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001294",
+      "dk-q-003482",
+      "dk-q-001854"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-019",
+    "title": "运行Nginx案例19",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001159",
+      "dk-q-000726",
+      "dk-q-001277"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-020",
+    "title": "运行MySQL案例20",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003539",
+      "dk-q-001761",
+      "dk-q-002027"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-021",
+    "title": "构建Node镜像案例21",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002023",
+      "dk-q-002420",
+      "dk-q-003329"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-022",
+    "title": "构建SpringBoot镜像案例22",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002066",
+      "dk-q-002790",
+      "dk-q-000118"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-023",
+    "title": "前端静态站点案例23",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002863",
+      "dk-q-002591",
+      "dk-q-003119"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-024",
+    "title": "Dockerfile优化案例24",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002403",
+      "dk-q-000015",
+      "dk-q-002302"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-025",
+    "title": "多阶段构建案例25",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000389",
+      "dk-q-000165",
+      "dk-q-002004"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-026",
+    "title": "volume持久化案例26",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001170",
+      "dk-q-000572",
+      "dk-q-001284"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-027",
+    "title": "网络连接案例27",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002448",
+      "dk-q-001528",
+      "dk-q-000089"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-028",
+    "title": "Compose编排案例28",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000426",
+      "dk-q-000977",
+      "dk-q-003672"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-029",
+    "title": "日志查看案例29",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002870",
+      "dk-q-003602",
+      "dk-q-000081"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-030",
+    "title": "容器进入案例30",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000236",
+      "dk-q-000943",
+      "dk-q-003636"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-031",
+    "title": "端口冲突案例31",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003293",
+      "dk-q-002902",
+      "dk-q-000810"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-032",
+    "title": "环境变量案例32",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003188",
+      "dk-q-003576",
+      "dk-q-003515"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-033",
+    "title": "Actions构建镜像案例33",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001040",
+      "dk-q-000429",
+      "dk-q-001506"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-034",
+    "title": "部署排错案例34",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002253",
+      "dk-q-000531",
+      "dk-q-000769"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-035",
+    "title": "Docker安装案例35",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000224",
+      "dk-q-001788",
+      "dk-q-001653"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-036",
+    "title": "运行Nginx案例36",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003427",
+      "dk-q-001127",
+      "dk-q-001914"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-037",
+    "title": "运行MySQL案例37",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002605",
+      "dk-q-001641",
+      "dk-q-002840"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-038",
+    "title": "构建Node镜像案例38",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000698",
+      "dk-q-002788",
+      "dk-q-003571"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-039",
+    "title": "构建SpringBoot镜像案例39",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000171",
+      "dk-q-001112",
+      "dk-q-001740"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-040",
+    "title": "前端静态站点案例40",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000088",
+      "dk-q-001440",
+      "dk-q-003447"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-041",
+    "title": "Dockerfile优化案例41",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003266",
+      "dk-q-003283",
+      "dk-q-003205"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-042",
+    "title": "多阶段构建案例42",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003083",
+      "dk-q-000054",
+      "dk-q-002870"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-043",
+    "title": "volume持久化案例43",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001154",
+      "dk-q-003151",
+      "dk-q-001621"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-044",
+    "title": "网络连接案例44",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001745",
+      "dk-q-000520",
+      "dk-q-000487"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-045",
+    "title": "Compose编排案例45",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001663",
+      "dk-q-002879",
+      "dk-q-001337"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-046",
+    "title": "日志查看案例46",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001831",
+      "dk-q-001286",
+      "dk-q-001321"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-047",
+    "title": "容器进入案例47",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002932",
+      "dk-q-002053",
+      "dk-q-000594"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-048",
+    "title": "端口冲突案例48",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000141",
+      "dk-q-003332",
+      "dk-q-001152"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-049",
+    "title": "环境变量案例49",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002022",
+      "dk-q-002481",
+      "dk-q-000161"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-050",
+    "title": "Actions构建镜像案例50",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000693",
+      "dk-q-000216",
+      "dk-q-002198"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-051",
+    "title": "部署排错案例51",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002983",
+      "dk-q-000674",
+      "dk-q-002822"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-052",
+    "title": "Docker安装案例52",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002517",
+      "dk-q-000741",
+      "dk-q-002815"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-053",
+    "title": "运行Nginx案例53",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002457",
+      "dk-q-000780",
+      "dk-q-002901"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-054",
+    "title": "运行MySQL案例54",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003539",
+      "dk-q-002064",
+      "dk-q-002041"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-055",
+    "title": "构建Node镜像案例55",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000558",
+      "dk-q-001933",
+      "dk-q-001434"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-056",
+    "title": "构建SpringBoot镜像案例56",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003571",
+      "dk-q-001003",
+      "dk-q-000198"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-057",
+    "title": "前端静态站点案例57",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002433",
+      "dk-q-003519",
+      "dk-q-002031"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-058",
+    "title": "Dockerfile优化案例58",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001571",
+      "dk-q-002885",
+      "dk-q-003691"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-059",
+    "title": "多阶段构建案例59",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002326",
+      "dk-q-003441",
+      "dk-q-002096"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-060",
+    "title": "volume持久化案例60",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003566",
+      "dk-q-002935",
+      "dk-q-001322"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-061",
+    "title": "网络连接案例61",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003173",
+      "dk-q-003329",
+      "dk-q-003101"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-062",
+    "title": "Compose编排案例62",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001133",
+      "dk-q-002902",
+      "dk-q-001227"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-063",
+    "title": "日志查看案例63",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003663",
+      "dk-q-000962",
+      "dk-q-000321"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-064",
+    "title": "容器进入案例64",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002984",
+      "dk-q-000953",
+      "dk-q-003023"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-065",
+    "title": "端口冲突案例65",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002818",
+      "dk-q-003525",
+      "dk-q-002359"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-066",
+    "title": "环境变量案例66",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003457",
+      "dk-q-001322",
+      "dk-q-000878"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-067",
+    "title": "Actions构建镜像案例67",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003174",
+      "dk-q-001568",
+      "dk-q-001859"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-068",
+    "title": "部署排错案例68",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000069",
+      "dk-q-001223",
+      "dk-q-002377"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-069",
+    "title": "Docker安装案例69",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002449",
+      "dk-q-003027",
+      "dk-q-001323"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-070",
+    "title": "运行Nginx案例70",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000143",
+      "dk-q-002062",
+      "dk-q-001380"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-071",
+    "title": "运行MySQL案例71",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000386",
+      "dk-q-001305",
+      "dk-q-001120"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-072",
+    "title": "构建Node镜像案例72",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000300",
+      "dk-q-000559",
+      "dk-q-001223"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-073",
+    "title": "构建SpringBoot镜像案例73",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002753",
+      "dk-q-001525",
+      "dk-q-000018"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-074",
+    "title": "前端静态站点案例74",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002569",
+      "dk-q-002647",
+      "dk-q-003446"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-075",
+    "title": "Dockerfile优化案例75",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002549",
+      "dk-q-003068",
+      "dk-q-000045"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-076",
+    "title": "多阶段构建案例76",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000665",
+      "dk-q-003479",
+      "dk-q-002949"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-077",
+    "title": "volume持久化案例77",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003619",
+      "dk-q-000731",
+      "dk-q-000995"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-078",
+    "title": "网络连接案例78",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000332",
+      "dk-q-001019",
+      "dk-q-000105"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-079",
+    "title": "Compose编排案例79",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002214",
+      "dk-q-002977",
+      "dk-q-001131"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-080",
+    "title": "日志查看案例80",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000764",
+      "dk-q-003407",
+      "dk-q-001335"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-081",
+    "title": "容器进入案例81",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000192",
+      "dk-q-003221",
+      "dk-q-000264"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-082",
+    "title": "端口冲突案例82",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002365",
+      "dk-q-002453",
+      "dk-q-002780"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-083",
+    "title": "环境变量案例83",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000339",
+      "dk-q-002094",
+      "dk-q-003519"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-084",
+    "title": "Actions构建镜像案例84",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000249",
+      "dk-q-000129",
+      "dk-q-002323"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-085",
+    "title": "部署排错案例85",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001128",
+      "dk-q-001667",
+      "dk-q-002214"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-086",
+    "title": "Docker安装案例86",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001592",
+      "dk-q-003639",
+      "dk-q-001444"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-087",
+    "title": "运行Nginx案例87",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002428",
+      "dk-q-001172",
+      "dk-q-001936"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-088",
+    "title": "运行MySQL案例88",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002636",
+      "dk-q-002230",
+      "dk-q-001198"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-089",
+    "title": "构建Node镜像案例89",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002949",
+      "dk-q-001742",
+      "dk-q-001319"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-090",
+    "title": "构建SpringBoot镜像案例90",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003258",
+      "dk-q-001895",
+      "dk-q-000013"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-091",
+    "title": "前端静态站点案例91",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003468",
+      "dk-q-003012",
+      "dk-q-003114"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-092",
+    "title": "Dockerfile优化案例92",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000911",
+      "dk-q-001891",
+      "dk-q-000220"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-093",
+    "title": "多阶段构建案例93",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002164",
+      "dk-q-000801",
+      "dk-q-002779"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-094",
+    "title": "volume持久化案例94",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002980",
+      "dk-q-003569",
+      "dk-q-001348"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-095",
+    "title": "网络连接案例95",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001636",
+      "dk-q-002276",
+      "dk-q-000204"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-096",
+    "title": "Compose编排案例96",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003182",
+      "dk-q-001766",
+      "dk-q-000158"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-097",
+    "title": "日志查看案例97",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001288",
+      "dk-q-002670",
+      "dk-q-003136"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-098",
+    "title": "容器进入案例98",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001276",
+      "dk-q-000689",
+      "dk-q-003667"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-099",
+    "title": "端口冲突案例99",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001076",
+      "dk-q-002605",
+      "dk-q-001802"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-100",
+    "title": "环境变量案例100",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003687",
+      "dk-q-001471",
+      "dk-q-002615"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-101",
+    "title": "Actions构建镜像案例101",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001718",
+      "dk-q-003205",
+      "dk-q-000953"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-102",
+    "title": "部署排错案例102",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001188",
+      "dk-q-001788",
+      "dk-q-003381"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-103",
+    "title": "Docker安装案例103",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001520",
+      "dk-q-002259",
+      "dk-q-000612"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-104",
+    "title": "运行Nginx案例104",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003299",
+      "dk-q-000469",
+      "dk-q-001248"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-105",
+    "title": "运行MySQL案例105",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002652",
+      "dk-q-000022",
+      "dk-q-000724"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-106",
+    "title": "构建Node镜像案例106",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001674",
+      "dk-q-002757",
+      "dk-q-001736"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-107",
+    "title": "构建SpringBoot镜像案例107",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001811",
+      "dk-q-000704",
+      "dk-q-001914"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-108",
+    "title": "前端静态站点案例108",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000848",
+      "dk-q-000278",
+      "dk-q-000711"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-109",
+    "title": "Dockerfile优化案例109",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002805",
+      "dk-q-001446",
+      "dk-q-002389"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-110",
+    "title": "多阶段构建案例110",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001727",
+      "dk-q-001913",
+      "dk-q-001668"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-111",
+    "title": "volume持久化案例111",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003325",
+      "dk-q-002294",
+      "dk-q-003551"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-112",
+    "title": "网络连接案例112",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000698",
+      "dk-q-001393",
+      "dk-q-000044"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-113",
+    "title": "Compose编排案例113",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003112",
+      "dk-q-002380",
+      "dk-q-003019"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-114",
+    "title": "日志查看案例114",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002236",
+      "dk-q-001065",
+      "dk-q-003630"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-115",
+    "title": "容器进入案例115",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002440",
+      "dk-q-003564",
+      "dk-q-001778"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-116",
+    "title": "端口冲突案例116",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001989",
+      "dk-q-001316",
+      "dk-q-000556"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-117",
+    "title": "环境变量案例117",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002484",
+      "dk-q-003229",
+      "dk-q-001145"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-118",
+    "title": "Actions构建镜像案例118",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000194",
+      "dk-q-002724",
+      "dk-q-003137"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-119",
+    "title": "部署排错案例119",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001653",
+      "dk-q-002916",
+      "dk-q-000718"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-120",
+    "title": "Docker安装案例120",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001117",
+      "dk-q-002189",
+      "dk-q-001029"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-121",
+    "title": "运行Nginx案例121",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003491",
+      "dk-q-000098",
+      "dk-q-002304"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-122",
+    "title": "运行MySQL案例122",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000012",
+      "dk-q-000066",
+      "dk-q-003670"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-123",
+    "title": "构建Node镜像案例123",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002163",
+      "dk-q-003008",
+      "dk-q-000049"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-124",
+    "title": "构建SpringBoot镜像案例124",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000894",
+      "dk-q-002553",
+      "dk-q-000153"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-125",
+    "title": "前端静态站点案例125",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000991",
+      "dk-q-002713",
+      "dk-q-001441"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-126",
+    "title": "Dockerfile优化案例126",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000919",
+      "dk-q-002569",
+      "dk-q-000855"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-127",
+    "title": "多阶段构建案例127",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002682",
+      "dk-q-000504",
+      "dk-q-001264"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-128",
+    "title": "volume持久化案例128",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000979",
+      "dk-q-003043",
+      "dk-q-002606"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-129",
+    "title": "网络连接案例129",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001427",
+      "dk-q-001331",
+      "dk-q-001783"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-130",
+    "title": "Compose编排案例130",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002125",
+      "dk-q-001304",
+      "dk-q-002693"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-131",
+    "title": "日志查看案例131",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000608",
+      "dk-q-001276",
+      "dk-q-003082"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-132",
+    "title": "容器进入案例132",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000699",
+      "dk-q-001552",
+      "dk-q-002762"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-133",
+    "title": "端口冲突案例133",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002615",
+      "dk-q-000494",
+      "dk-q-001859"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-134",
+    "title": "环境变量案例134",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003698",
+      "dk-q-002453",
+      "dk-q-001032"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-135",
+    "title": "Actions构建镜像案例135",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000600",
+      "dk-q-000749",
+      "dk-q-000987"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-136",
+    "title": "部署排错案例136",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002042",
+      "dk-q-003532",
+      "dk-q-003570"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-137",
+    "title": "Docker安装案例137",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000954",
+      "dk-q-003648",
+      "dk-q-000826"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-138",
+    "title": "运行Nginx案例138",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001217",
+      "dk-q-000534",
+      "dk-q-000639"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-139",
+    "title": "运行MySQL案例139",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002927",
+      "dk-q-001980",
+      "dk-q-002661"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-140",
+    "title": "构建Node镜像案例140",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003100",
+      "dk-q-000403",
+      "dk-q-001501"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-141",
+    "title": "构建SpringBoot镜像案例141",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000919",
+      "dk-q-003657",
+      "dk-q-000183"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-142",
+    "title": "前端静态站点案例142",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003507",
+      "dk-q-001514",
+      "dk-q-000173"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-143",
+    "title": "Dockerfile优化案例143",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001898",
+      "dk-q-000747",
+      "dk-q-002305"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-144",
+    "title": "多阶段构建案例144",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002565",
+      "dk-q-003637",
+      "dk-q-001660"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-145",
+    "title": "volume持久化案例145",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000162",
+      "dk-q-000199",
+      "dk-q-000187"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-146",
+    "title": "网络连接案例146",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000306",
+      "dk-q-003303",
+      "dk-q-003586"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-147",
+    "title": "Compose编排案例147",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000219",
+      "dk-q-001426",
+      "dk-q-001710"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-148",
+    "title": "日志查看案例148",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001128",
+      "dk-q-001094",
+      "dk-q-002784"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-149",
+    "title": "容器进入案例149",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002638",
+      "dk-q-003027",
+      "dk-q-003592"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-150",
+    "title": "端口冲突案例150",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002110",
+      "dk-q-000834",
+      "dk-q-002351"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-151",
+    "title": "环境变量案例151",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000281",
+      "dk-q-001849",
+      "dk-q-001518"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-152",
+    "title": "Actions构建镜像案例152",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003139",
+      "dk-q-000701",
+      "dk-q-003052"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-153",
+    "title": "部署排错案例153",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002068",
+      "dk-q-003007",
+      "dk-q-002234"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-154",
+    "title": "Docker安装案例154",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000548",
+      "dk-q-000132",
+      "dk-q-001590"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-155",
+    "title": "运行Nginx案例155",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002350",
+      "dk-q-002324",
+      "dk-q-000903"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-156",
+    "title": "运行MySQL案例156",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002359",
+      "dk-q-001552",
+      "dk-q-000567"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-157",
+    "title": "构建Node镜像案例157",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002895",
+      "dk-q-001088",
+      "dk-q-003172"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-158",
+    "title": "构建SpringBoot镜像案例158",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000463",
+      "dk-q-003398",
+      "dk-q-000256"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-159",
+    "title": "前端静态站点案例159",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001240",
+      "dk-q-002147",
+      "dk-q-000031"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-160",
+    "title": "Dockerfile优化案例160",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001826",
+      "dk-q-001678",
+      "dk-q-000120"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-161",
+    "title": "多阶段构建案例161",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001579",
+      "dk-q-000388",
+      "dk-q-002787"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-162",
+    "title": "volume持久化案例162",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003657",
+      "dk-q-003020",
+      "dk-q-002525"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-163",
+    "title": "网络连接案例163",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002769",
+      "dk-q-002632",
+      "dk-q-003489"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-164",
+    "title": "Compose编排案例164",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000877",
+      "dk-q-003650",
+      "dk-q-001542"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-165",
+    "title": "日志查看案例165",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003528",
+      "dk-q-001500",
+      "dk-q-000501"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-166",
+    "title": "容器进入案例166",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000982",
+      "dk-q-002885",
+      "dk-q-001414"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-167",
+    "title": "端口冲突案例167",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000487",
+      "dk-q-003434",
+      "dk-q-002006"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-168",
+    "title": "环境变量案例168",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002978",
+      "dk-q-002468",
+      "dk-q-001393"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-169",
+    "title": "Actions构建镜像案例169",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002027",
+      "dk-q-003362",
+      "dk-q-003414"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-170",
+    "title": "部署排错案例170",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003565",
+      "dk-q-000727",
+      "dk-q-003235"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-171",
+    "title": "Docker安装案例171",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003252",
+      "dk-q-003028",
+      "dk-q-001389"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-172",
+    "title": "运行Nginx案例172",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003697",
+      "dk-q-001255",
+      "dk-q-001291"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-173",
+    "title": "运行MySQL案例173",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001834",
+      "dk-q-003450",
+      "dk-q-003624"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-174",
+    "title": "构建Node镜像案例174",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001745",
+      "dk-q-000814",
+      "dk-q-002917"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-175",
+    "title": "构建SpringBoot镜像案例175",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001034",
+      "dk-q-003367",
+      "dk-q-001017"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-176",
+    "title": "前端静态站点案例176",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001894",
+      "dk-q-003204",
+      "dk-q-001566"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-177",
+    "title": "Dockerfile优化案例177",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001163",
+      "dk-q-003325",
+      "dk-q-002428"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-178",
+    "title": "多阶段构建案例178",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003105",
+      "dk-q-002680",
+      "dk-q-003054"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-179",
+    "title": "volume持久化案例179",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000287",
+      "dk-q-002606",
+      "dk-q-003631"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-180",
+    "title": "网络连接案例180",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002226",
+      "dk-q-001079",
+      "dk-q-003224"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-181",
+    "title": "Compose编排案例181",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001999",
+      "dk-q-003134",
+      "dk-q-003339"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-182",
+    "title": "日志查看案例182",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003191",
+      "dk-q-002009",
+      "dk-q-002339"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-183",
+    "title": "容器进入案例183",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002336",
+      "dk-q-001501",
+      "dk-q-000049"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-184",
+    "title": "端口冲突案例184",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001023",
+      "dk-q-001494",
+      "dk-q-000336"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-185",
+    "title": "环境变量案例185",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000260",
+      "dk-q-002586",
+      "dk-q-000292"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-186",
+    "title": "Actions构建镜像案例186",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000242",
+      "dk-q-003132",
+      "dk-q-002885"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-187",
+    "title": "部署排错案例187",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001124",
+      "dk-q-000229",
+      "dk-q-002486"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-188",
+    "title": "Docker安装案例188",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000730",
+      "dk-q-003088",
+      "dk-q-003568"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-189",
+    "title": "运行Nginx案例189",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001106",
+      "dk-q-003366",
+      "dk-q-003428"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-190",
+    "title": "运行MySQL案例190",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000118",
+      "dk-q-001004",
+      "dk-q-001133"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-191",
+    "title": "构建Node镜像案例191",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003120",
+      "dk-q-002882",
+      "dk-q-002143"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-192",
+    "title": "构建SpringBoot镜像案例192",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003290",
+      "dk-q-002868",
+      "dk-q-001345"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-193",
+    "title": "前端静态站点案例193",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001726",
+      "dk-q-002751",
+      "dk-q-003432"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-194",
+    "title": "Dockerfile优化案例194",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000288",
+      "dk-q-002535",
+      "dk-q-000227"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-195",
+    "title": "多阶段构建案例195",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003056",
+      "dk-q-003481",
+      "dk-q-003012"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-196",
+    "title": "volume持久化案例196",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002123",
+      "dk-q-002336",
+      "dk-q-003157"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-197",
+    "title": "网络连接案例197",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002463",
+      "dk-q-000527",
+      "dk-q-002917"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-198",
+    "title": "Compose编排案例198",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001193",
+      "dk-q-001337",
+      "dk-q-003657"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-199",
+    "title": "日志查看案例199",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002729",
+      "dk-q-001320",
+      "dk-q-002835"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-200",
+    "title": "容器进入案例200",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003144",
+      "dk-q-003394",
+      "dk-q-000228"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-201",
+    "title": "端口冲突案例201",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003667",
+      "dk-q-001633",
+      "dk-q-000515"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-202",
+    "title": "环境变量案例202",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001411",
+      "dk-q-003344",
+      "dk-q-001353"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-203",
+    "title": "Actions构建镜像案例203",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001908",
+      "dk-q-000562",
+      "dk-q-001839"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-204",
+    "title": "部署排错案例204",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001841",
+      "dk-q-001518",
+      "dk-q-001156"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-205",
+    "title": "Docker安装案例205",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001046",
+      "dk-q-001938",
+      "dk-q-001598"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-206",
+    "title": "运行Nginx案例206",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000851",
+      "dk-q-002167",
+      "dk-q-000061"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-207",
+    "title": "运行MySQL案例207",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001086",
+      "dk-q-002780",
+      "dk-q-001780"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-208",
+    "title": "构建Node镜像案例208",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001394",
+      "dk-q-000367",
+      "dk-q-003458"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-209",
+    "title": "构建SpringBoot镜像案例209",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000132",
+      "dk-q-002871",
+      "dk-q-000455"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-210",
+    "title": "前端静态站点案例210",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001037",
+      "dk-q-000760",
+      "dk-q-003174"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-211",
+    "title": "Dockerfile优化案例211",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002057",
+      "dk-q-000232",
+      "dk-q-001641"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-212",
+    "title": "多阶段构建案例212",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000908",
+      "dk-q-001773",
+      "dk-q-002615"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-213",
+    "title": "volume持久化案例213",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002378",
+      "dk-q-000304",
+      "dk-q-001593"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-214",
+    "title": "网络连接案例214",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003048",
+      "dk-q-003247",
+      "dk-q-001737"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-215",
+    "title": "Compose编排案例215",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000243",
+      "dk-q-002301",
+      "dk-q-000928"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-216",
+    "title": "日志查看案例216",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001298",
+      "dk-q-001543",
+      "dk-q-003432"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-217",
+    "title": "容器进入案例217",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000387",
+      "dk-q-003315",
+      "dk-q-003292"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-218",
+    "title": "端口冲突案例218",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001793",
+      "dk-q-003191",
+      "dk-q-000773"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-219",
+    "title": "环境变量案例219",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000444",
+      "dk-q-002764",
+      "dk-q-002404"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-220",
+    "title": "Actions构建镜像案例220",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002984",
+      "dk-q-002694",
+      "dk-q-001463"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-221",
+    "title": "部署排错案例221",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001628",
+      "dk-q-000237",
+      "dk-q-000041"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-222",
+    "title": "Docker安装案例222",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003667",
+      "dk-q-002749",
+      "dk-q-000050"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-223",
+    "title": "运行Nginx案例223",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001661",
+      "dk-q-002603",
+      "dk-q-001401"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-224",
+    "title": "运行MySQL案例224",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002162",
+      "dk-q-002829",
+      "dk-q-002459"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-225",
+    "title": "构建Node镜像案例225",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000506",
+      "dk-q-001359",
+      "dk-q-001783"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-226",
+    "title": "构建SpringBoot镜像案例226",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001943",
+      "dk-q-002570",
+      "dk-q-001068"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-227",
+    "title": "前端静态站点案例227",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002179",
+      "dk-q-002220",
+      "dk-q-003557"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-228",
+    "title": "Dockerfile优化案例228",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001835",
+      "dk-q-001640",
+      "dk-q-001917"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-229",
+    "title": "多阶段构建案例229",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003130",
+      "dk-q-002147",
+      "dk-q-002081"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-230",
+    "title": "volume持久化案例230",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003616",
+      "dk-q-003168",
+      "dk-q-000766"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-231",
+    "title": "网络连接案例231",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003245",
+      "dk-q-003075",
+      "dk-q-002385"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-232",
+    "title": "Compose编排案例232",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000595",
+      "dk-q-001788",
+      "dk-q-003680"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-233",
+    "title": "日志查看案例233",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001812",
+      "dk-q-000877",
+      "dk-q-000448"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-234",
+    "title": "容器进入案例234",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001151",
+      "dk-q-003115",
+      "dk-q-000822"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-235",
+    "title": "端口冲突案例235",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001706",
+      "dk-q-000968",
+      "dk-q-001647"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-236",
+    "title": "环境变量案例236",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001345",
+      "dk-q-001603",
+      "dk-q-003298"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-237",
+    "title": "Actions构建镜像案例237",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002920",
+      "dk-q-001547",
+      "dk-q-001187"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-238",
+    "title": "部署排错案例238",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002008",
+      "dk-q-000504",
+      "dk-q-001599"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-239",
+    "title": "Docker安装案例239",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002493",
+      "dk-q-000510",
+      "dk-q-002327"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-240",
+    "title": "运行Nginx案例240",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003160",
+      "dk-q-002754",
+      "dk-q-003385"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-241",
+    "title": "运行MySQL案例241",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003596",
+      "dk-q-002094",
+      "dk-q-000564"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-242",
+    "title": "构建Node镜像案例242",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002918",
+      "dk-q-001530",
+      "dk-q-003299"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-243",
+    "title": "构建SpringBoot镜像案例243",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000541",
+      "dk-q-000538",
+      "dk-q-002150"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-244",
+    "title": "前端静态站点案例244",
+    "description": "通过前端静态站点掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002573",
+      "dk-q-002416",
+      "dk-q-003583"
+    ],
+    "tags": [
+      "前端静态站点"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-245",
+    "title": "Dockerfile优化案例245",
+    "description": "通过Dockerfile优化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000703",
+      "dk-q-000945",
+      "dk-q-001789"
+    ],
+    "tags": [
+      "Dockerfile优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-246",
+    "title": "多阶段构建案例246",
+    "description": "通过多阶段构建掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003443",
+      "dk-q-001079",
+      "dk-q-003493"
+    ],
+    "tags": [
+      "多阶段构建"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-247",
+    "title": "volume持久化案例247",
+    "description": "通过volume持久化掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000402",
+      "dk-q-001257",
+      "dk-q-000641"
+    ],
+    "tags": [
+      "volume持久化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-248",
+    "title": "网络连接案例248",
+    "description": "通过网络连接掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002733",
+      "dk-q-003070",
+      "dk-q-003300"
+    ],
+    "tags": [
+      "网络连接"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-249",
+    "title": "Compose编排案例249",
+    "description": "通过Compose编排掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001191",
+      "dk-q-000950",
+      "dk-q-001233"
+    ],
+    "tags": [
+      "Compose编排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-250",
+    "title": "日志查看案例250",
+    "description": "通过日志查看掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002010",
+      "dk-q-000320",
+      "dk-q-001309"
+    ],
+    "tags": [
+      "日志查看"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-251",
+    "title": "容器进入案例251",
+    "description": "通过容器进入掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002358",
+      "dk-q-003234",
+      "dk-q-001860"
+    ],
+    "tags": [
+      "容器进入"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-252",
+    "title": "端口冲突案例252",
+    "description": "通过端口冲突掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003575",
+      "dk-q-002543",
+      "dk-q-002962"
+    ],
+    "tags": [
+      "端口冲突"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-253",
+    "title": "环境变量案例253",
+    "description": "通过环境变量掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001857",
+      "dk-q-002159",
+      "dk-q-001708"
+    ],
+    "tags": [
+      "环境变量"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-254",
+    "title": "Actions构建镜像案例254",
+    "description": "通过Actions构建镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-002413",
+      "dk-q-003269",
+      "dk-q-001424"
+    ],
+    "tags": [
+      "Actions构建镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-255",
+    "title": "部署排错案例255",
+    "description": "通过部署排错掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001651",
+      "dk-q-003279",
+      "dk-q-002915"
+    ],
+    "tags": [
+      "部署排错"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-256",
+    "title": "Docker安装案例256",
+    "description": "通过Docker安装掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001773",
+      "dk-q-000990",
+      "dk-q-001779"
+    ],
+    "tags": [
+      "Docker安装"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-257",
+    "title": "运行Nginx案例257",
+    "description": "通过运行Nginx掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-000768",
+      "dk-q-003254",
+      "dk-q-002828"
+    ],
+    "tags": [
+      "运行Nginx"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-258",
+    "title": "运行MySQL案例258",
+    "description": "通过运行MySQL掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-003142",
+      "dk-q-001160",
+      "dk-q-000637"
+    ],
+    "tags": [
+      "运行MySQL"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-259",
+    "title": "构建Node镜像案例259",
+    "description": "通过构建Node镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001484",
+      "dk-q-002542",
+      "dk-q-003144"
+    ],
+    "tags": [
+      "构建Node镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-case-260",
+    "title": "构建SpringBoot镜像案例260",
+    "description": "通过构建SpringBoot镜像掌握Docker",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "操作",
+        "description": "执行"
+      },
+      {
+        "order": 3,
+        "title": "结果",
+        "description": "验证"
+      },
+      {
+        "order": 4,
+        "title": "总结",
+        "description": "归纳"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dk-q-001762",
+      "dk-q-002343",
+      "dk-q-002439"
+    ],
+    "tags": [
+      "构建SpringBoot镜像"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

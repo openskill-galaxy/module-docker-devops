@@ -1,0 +1,3824 @@
+[
+  {
+    "id": "dk-lesson-001",
+    "courseId": "dk-course-01",
+    "order": 1,
+    "title": "Docker课程1章1",
+    "slug": "Docker课程1章1",
+    "summary": "Docker课程1章1学习",
+    "content": "# Docker课程1章1\n\nDocker课程1章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0002"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-002",
+    "courseId": "dk-course-01",
+    "order": 2,
+    "title": "Docker课程1章2",
+    "slug": "Docker课程1章2",
+    "summary": "Docker课程1章2学习",
+    "content": "# Docker课程1章2\n\nDocker课程1章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0003"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-003",
+    "courseId": "dk-course-01",
+    "order": 3,
+    "title": "Docker课程1章3",
+    "slug": "Docker课程1章3",
+    "summary": "Docker课程1章3学习",
+    "content": "# Docker课程1章3\n\nDocker课程1章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0004"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-004",
+    "courseId": "dk-course-01",
+    "order": 4,
+    "title": "Docker课程1章4",
+    "slug": "Docker课程1章4",
+    "summary": "Docker课程1章4学习",
+    "content": "# Docker课程1章4\n\nDocker课程1章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0005"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-005",
+    "courseId": "dk-course-01",
+    "order": 5,
+    "title": "Docker课程1章5",
+    "slug": "Docker课程1章5",
+    "summary": "Docker课程1章5学习",
+    "content": "# Docker课程1章5\n\nDocker课程1章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0006"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-006",
+    "courseId": "dk-course-01",
+    "order": 6,
+    "title": "Docker课程1章6",
+    "slug": "Docker课程1章6",
+    "summary": "Docker课程1章6学习",
+    "content": "# Docker课程1章6\n\nDocker课程1章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0007"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-007",
+    "courseId": "dk-course-01",
+    "order": 7,
+    "title": "Docker课程1章7",
+    "slug": "Docker课程1章7",
+    "summary": "Docker课程1章7学习",
+    "content": "# Docker课程1章7\n\nDocker课程1章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0008"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-008",
+    "courseId": "dk-course-01",
+    "order": 8,
+    "title": "Docker课程1章8",
+    "slug": "Docker课程1章8",
+    "summary": "Docker课程1章8学习",
+    "content": "# Docker课程1章8\n\nDocker课程1章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0009"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-009",
+    "courseId": "dk-course-01",
+    "order": 9,
+    "title": "Docker课程1章9",
+    "slug": "Docker课程1章9",
+    "summary": "Docker课程1章9学习",
+    "content": "# Docker课程1章9\n\nDocker课程1章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0010"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-010",
+    "courseId": "dk-course-01",
+    "order": 10,
+    "title": "Docker课程1章10",
+    "slug": "Docker课程1章10",
+    "summary": "Docker课程1章10学习",
+    "content": "# Docker课程1章10\n\nDocker课程1章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0011"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-011",
+    "courseId": "dk-course-01",
+    "order": 11,
+    "title": "Docker课程1章11",
+    "slug": "Docker课程1章11",
+    "summary": "Docker课程1章11学习",
+    "content": "# Docker课程1章11\n\nDocker课程1章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0012"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-012",
+    "courseId": "dk-course-01",
+    "order": 12,
+    "title": "Docker课程1章12",
+    "slug": "Docker课程1章12",
+    "summary": "Docker课程1章12学习",
+    "content": "# Docker课程1章12\n\nDocker课程1章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0013"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-013",
+    "courseId": "dk-course-01",
+    "order": 13,
+    "title": "Docker课程1章13",
+    "slug": "Docker课程1章13",
+    "summary": "Docker课程1章13学习",
+    "content": "# Docker课程1章13\n\nDocker课程1章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程1章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0014"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-014",
+    "courseId": "dk-course-02",
+    "order": 1,
+    "title": "Docker课程2章1",
+    "slug": "Docker课程2章1",
+    "summary": "Docker课程2章1学习",
+    "content": "# Docker课程2章1\n\nDocker课程2章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0015"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-015",
+    "courseId": "dk-course-02",
+    "order": 2,
+    "title": "Docker课程2章2",
+    "slug": "Docker课程2章2",
+    "summary": "Docker课程2章2学习",
+    "content": "# Docker课程2章2\n\nDocker课程2章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0016"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-016",
+    "courseId": "dk-course-02",
+    "order": 3,
+    "title": "Docker课程2章3",
+    "slug": "Docker课程2章3",
+    "summary": "Docker课程2章3学习",
+    "content": "# Docker课程2章3\n\nDocker课程2章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0017"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-017",
+    "courseId": "dk-course-02",
+    "order": 4,
+    "title": "Docker课程2章4",
+    "slug": "Docker课程2章4",
+    "summary": "Docker课程2章4学习",
+    "content": "# Docker课程2章4\n\nDocker课程2章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0018"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-018",
+    "courseId": "dk-course-02",
+    "order": 5,
+    "title": "Docker课程2章5",
+    "slug": "Docker课程2章5",
+    "summary": "Docker课程2章5学习",
+    "content": "# Docker课程2章5\n\nDocker课程2章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0019"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-019",
+    "courseId": "dk-course-02",
+    "order": 6,
+    "title": "Docker课程2章6",
+    "slug": "Docker课程2章6",
+    "summary": "Docker课程2章6学习",
+    "content": "# Docker课程2章6\n\nDocker课程2章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0020"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-020",
+    "courseId": "dk-course-02",
+    "order": 7,
+    "title": "Docker课程2章7",
+    "slug": "Docker课程2章7",
+    "summary": "Docker课程2章7学习",
+    "content": "# Docker课程2章7\n\nDocker课程2章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0021"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-021",
+    "courseId": "dk-course-02",
+    "order": 8,
+    "title": "Docker课程2章8",
+    "slug": "Docker课程2章8",
+    "summary": "Docker课程2章8学习",
+    "content": "# Docker课程2章8\n\nDocker课程2章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0022"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-022",
+    "courseId": "dk-course-02",
+    "order": 9,
+    "title": "Docker课程2章9",
+    "slug": "Docker课程2章9",
+    "summary": "Docker课程2章9学习",
+    "content": "# Docker课程2章9\n\nDocker课程2章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0023"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-023",
+    "courseId": "dk-course-02",
+    "order": 10,
+    "title": "Docker课程2章10",
+    "slug": "Docker课程2章10",
+    "summary": "Docker课程2章10学习",
+    "content": "# Docker课程2章10\n\nDocker课程2章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0024"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-024",
+    "courseId": "dk-course-02",
+    "order": 11,
+    "title": "Docker课程2章11",
+    "slug": "Docker课程2章11",
+    "summary": "Docker课程2章11学习",
+    "content": "# Docker课程2章11\n\nDocker课程2章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0025"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-025",
+    "courseId": "dk-course-02",
+    "order": 12,
+    "title": "Docker课程2章12",
+    "slug": "Docker课程2章12",
+    "summary": "Docker课程2章12学习",
+    "content": "# Docker课程2章12\n\nDocker课程2章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0026"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-026",
+    "courseId": "dk-course-02",
+    "order": 13,
+    "title": "Docker课程2章13",
+    "slug": "Docker课程2章13",
+    "summary": "Docker课程2章13学习",
+    "content": "# Docker课程2章13\n\nDocker课程2章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程2章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0027"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-027",
+    "courseId": "dk-course-03",
+    "order": 1,
+    "title": "Docker课程3章1",
+    "slug": "Docker课程3章1",
+    "summary": "Docker课程3章1学习",
+    "content": "# Docker课程3章1\n\nDocker课程3章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0028"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-028",
+    "courseId": "dk-course-03",
+    "order": 2,
+    "title": "Docker课程3章2",
+    "slug": "Docker课程3章2",
+    "summary": "Docker课程3章2学习",
+    "content": "# Docker课程3章2\n\nDocker课程3章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0029"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-029",
+    "courseId": "dk-course-03",
+    "order": 3,
+    "title": "Docker课程3章3",
+    "slug": "Docker课程3章3",
+    "summary": "Docker课程3章3学习",
+    "content": "# Docker课程3章3\n\nDocker课程3章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0030"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-030",
+    "courseId": "dk-course-03",
+    "order": 4,
+    "title": "Docker课程3章4",
+    "slug": "Docker课程3章4",
+    "summary": "Docker课程3章4学习",
+    "content": "# Docker课程3章4\n\nDocker课程3章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0031"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-031",
+    "courseId": "dk-course-03",
+    "order": 5,
+    "title": "Docker课程3章5",
+    "slug": "Docker课程3章5",
+    "summary": "Docker课程3章5学习",
+    "content": "# Docker课程3章5\n\nDocker课程3章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0032"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-032",
+    "courseId": "dk-course-03",
+    "order": 6,
+    "title": "Docker课程3章6",
+    "slug": "Docker课程3章6",
+    "summary": "Docker课程3章6学习",
+    "content": "# Docker课程3章6\n\nDocker课程3章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0033"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-033",
+    "courseId": "dk-course-03",
+    "order": 7,
+    "title": "Docker课程3章7",
+    "slug": "Docker课程3章7",
+    "summary": "Docker课程3章7学习",
+    "content": "# Docker课程3章7\n\nDocker课程3章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0034"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-034",
+    "courseId": "dk-course-03",
+    "order": 8,
+    "title": "Docker课程3章8",
+    "slug": "Docker课程3章8",
+    "summary": "Docker课程3章8学习",
+    "content": "# Docker课程3章8\n\nDocker课程3章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0035"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-035",
+    "courseId": "dk-course-03",
+    "order": 9,
+    "title": "Docker课程3章9",
+    "slug": "Docker课程3章9",
+    "summary": "Docker课程3章9学习",
+    "content": "# Docker课程3章9\n\nDocker课程3章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0036"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-036",
+    "courseId": "dk-course-03",
+    "order": 10,
+    "title": "Docker课程3章10",
+    "slug": "Docker课程3章10",
+    "summary": "Docker课程3章10学习",
+    "content": "# Docker课程3章10\n\nDocker课程3章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0037"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-037",
+    "courseId": "dk-course-03",
+    "order": 11,
+    "title": "Docker课程3章11",
+    "slug": "Docker课程3章11",
+    "summary": "Docker课程3章11学习",
+    "content": "# Docker课程3章11\n\nDocker课程3章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0038"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-038",
+    "courseId": "dk-course-03",
+    "order": 12,
+    "title": "Docker课程3章12",
+    "slug": "Docker课程3章12",
+    "summary": "Docker课程3章12学习",
+    "content": "# Docker课程3章12\n\nDocker课程3章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0039"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-039",
+    "courseId": "dk-course-03",
+    "order": 13,
+    "title": "Docker课程3章13",
+    "slug": "Docker课程3章13",
+    "summary": "Docker课程3章13学习",
+    "content": "# Docker课程3章13\n\nDocker课程3章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程3章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0040"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-040",
+    "courseId": "dk-course-04",
+    "order": 1,
+    "title": "Docker课程4章1",
+    "slug": "Docker课程4章1",
+    "summary": "Docker课程4章1学习",
+    "content": "# Docker课程4章1\n\nDocker课程4章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0041"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-041",
+    "courseId": "dk-course-04",
+    "order": 2,
+    "title": "Docker课程4章2",
+    "slug": "Docker课程4章2",
+    "summary": "Docker课程4章2学习",
+    "content": "# Docker课程4章2\n\nDocker课程4章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0042"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-042",
+    "courseId": "dk-course-04",
+    "order": 3,
+    "title": "Docker课程4章3",
+    "slug": "Docker课程4章3",
+    "summary": "Docker课程4章3学习",
+    "content": "# Docker课程4章3\n\nDocker课程4章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0043"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-043",
+    "courseId": "dk-course-04",
+    "order": 4,
+    "title": "Docker课程4章4",
+    "slug": "Docker课程4章4",
+    "summary": "Docker课程4章4学习",
+    "content": "# Docker课程4章4\n\nDocker课程4章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0044"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-044",
+    "courseId": "dk-course-04",
+    "order": 5,
+    "title": "Docker课程4章5",
+    "slug": "Docker课程4章5",
+    "summary": "Docker课程4章5学习",
+    "content": "# Docker课程4章5\n\nDocker课程4章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0045"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-045",
+    "courseId": "dk-course-04",
+    "order": 6,
+    "title": "Docker课程4章6",
+    "slug": "Docker课程4章6",
+    "summary": "Docker课程4章6学习",
+    "content": "# Docker课程4章6\n\nDocker课程4章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0046"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-046",
+    "courseId": "dk-course-04",
+    "order": 7,
+    "title": "Docker课程4章7",
+    "slug": "Docker课程4章7",
+    "summary": "Docker课程4章7学习",
+    "content": "# Docker课程4章7\n\nDocker课程4章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0047"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-047",
+    "courseId": "dk-course-04",
+    "order": 8,
+    "title": "Docker课程4章8",
+    "slug": "Docker课程4章8",
+    "summary": "Docker课程4章8学习",
+    "content": "# Docker课程4章8\n\nDocker课程4章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0048"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-048",
+    "courseId": "dk-course-04",
+    "order": 9,
+    "title": "Docker课程4章9",
+    "slug": "Docker课程4章9",
+    "summary": "Docker课程4章9学习",
+    "content": "# Docker课程4章9\n\nDocker课程4章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0049"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-049",
+    "courseId": "dk-course-04",
+    "order": 10,
+    "title": "Docker课程4章10",
+    "slug": "Docker课程4章10",
+    "summary": "Docker课程4章10学习",
+    "content": "# Docker课程4章10\n\nDocker课程4章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0050"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-050",
+    "courseId": "dk-course-04",
+    "order": 11,
+    "title": "Docker课程4章11",
+    "slug": "Docker课程4章11",
+    "summary": "Docker课程4章11学习",
+    "content": "# Docker课程4章11\n\nDocker课程4章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0051"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-051",
+    "courseId": "dk-course-04",
+    "order": 12,
+    "title": "Docker课程4章12",
+    "slug": "Docker课程4章12",
+    "summary": "Docker课程4章12学习",
+    "content": "# Docker课程4章12\n\nDocker课程4章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0052"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-052",
+    "courseId": "dk-course-04",
+    "order": 13,
+    "title": "Docker课程4章13",
+    "slug": "Docker课程4章13",
+    "summary": "Docker课程4章13学习",
+    "content": "# Docker课程4章13\n\nDocker课程4章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程4章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0053"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-053",
+    "courseId": "dk-course-05",
+    "order": 1,
+    "title": "Docker课程5章1",
+    "slug": "Docker课程5章1",
+    "summary": "Docker课程5章1学习",
+    "content": "# Docker课程5章1\n\nDocker课程5章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0054"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-054",
+    "courseId": "dk-course-05",
+    "order": 2,
+    "title": "Docker课程5章2",
+    "slug": "Docker课程5章2",
+    "summary": "Docker课程5章2学习",
+    "content": "# Docker课程5章2\n\nDocker课程5章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0055"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-055",
+    "courseId": "dk-course-05",
+    "order": 3,
+    "title": "Docker课程5章3",
+    "slug": "Docker课程5章3",
+    "summary": "Docker课程5章3学习",
+    "content": "# Docker课程5章3\n\nDocker课程5章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0056"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-056",
+    "courseId": "dk-course-05",
+    "order": 4,
+    "title": "Docker课程5章4",
+    "slug": "Docker课程5章4",
+    "summary": "Docker课程5章4学习",
+    "content": "# Docker课程5章4\n\nDocker课程5章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0057"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-057",
+    "courseId": "dk-course-05",
+    "order": 5,
+    "title": "Docker课程5章5",
+    "slug": "Docker课程5章5",
+    "summary": "Docker课程5章5学习",
+    "content": "# Docker课程5章5\n\nDocker课程5章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0058"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-058",
+    "courseId": "dk-course-05",
+    "order": 6,
+    "title": "Docker课程5章6",
+    "slug": "Docker课程5章6",
+    "summary": "Docker课程5章6学习",
+    "content": "# Docker课程5章6\n\nDocker课程5章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0059"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-059",
+    "courseId": "dk-course-05",
+    "order": 7,
+    "title": "Docker课程5章7",
+    "slug": "Docker课程5章7",
+    "summary": "Docker课程5章7学习",
+    "content": "# Docker课程5章7\n\nDocker课程5章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [
+      "dk-kp-0060"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-060",
+    "courseId": "dk-course-05",
+    "order": 8,
+    "title": "Docker课程5章8",
+    "slug": "Docker课程5章8",
+    "summary": "Docker课程5章8学习",
+    "content": "# Docker课程5章8\n\nDocker课程5章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0061"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-061",
+    "courseId": "dk-course-05",
+    "order": 9,
+    "title": "Docker课程5章9",
+    "slug": "Docker课程5章9",
+    "summary": "Docker课程5章9学习",
+    "content": "# Docker课程5章9\n\nDocker课程5章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0062"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-062",
+    "courseId": "dk-course-05",
+    "order": 10,
+    "title": "Docker课程5章10",
+    "slug": "Docker课程5章10",
+    "summary": "Docker课程5章10学习",
+    "content": "# Docker课程5章10\n\nDocker课程5章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0063"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-063",
+    "courseId": "dk-course-05",
+    "order": 11,
+    "title": "Docker课程5章11",
+    "slug": "Docker课程5章11",
+    "summary": "Docker课程5章11学习",
+    "content": "# Docker课程5章11\n\nDocker课程5章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0064"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-064",
+    "courseId": "dk-course-05",
+    "order": 12,
+    "title": "Docker课程5章12",
+    "slug": "Docker课程5章12",
+    "summary": "Docker课程5章12学习",
+    "content": "# Docker课程5章12\n\nDocker课程5章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0065"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-065",
+    "courseId": "dk-course-05",
+    "order": 13,
+    "title": "Docker课程5章13",
+    "slug": "Docker课程5章13",
+    "summary": "Docker课程5章13学习",
+    "content": "# Docker课程5章13\n\nDocker课程5章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程5章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0066"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-066",
+    "courseId": "dk-course-06",
+    "order": 1,
+    "title": "Docker课程6章1",
+    "slug": "Docker课程6章1",
+    "summary": "Docker课程6章1学习",
+    "content": "# Docker课程6章1\n\nDocker课程6章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0067"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-067",
+    "courseId": "dk-course-06",
+    "order": 2,
+    "title": "Docker课程6章2",
+    "slug": "Docker课程6章2",
+    "summary": "Docker课程6章2学习",
+    "content": "# Docker课程6章2\n\nDocker课程6章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0068"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-068",
+    "courseId": "dk-course-06",
+    "order": 3,
+    "title": "Docker课程6章3",
+    "slug": "Docker课程6章3",
+    "summary": "Docker课程6章3学习",
+    "content": "# Docker课程6章3\n\nDocker课程6章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0069"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-069",
+    "courseId": "dk-course-06",
+    "order": 4,
+    "title": "Docker课程6章4",
+    "slug": "Docker课程6章4",
+    "summary": "Docker课程6章4学习",
+    "content": "# Docker课程6章4\n\nDocker课程6章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0070"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-070",
+    "courseId": "dk-course-06",
+    "order": 5,
+    "title": "Docker课程6章5",
+    "slug": "Docker课程6章5",
+    "summary": "Docker课程6章5学习",
+    "content": "# Docker课程6章5\n\nDocker课程6章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0071"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-071",
+    "courseId": "dk-course-06",
+    "order": 6,
+    "title": "Docker课程6章6",
+    "slug": "Docker课程6章6",
+    "summary": "Docker课程6章6学习",
+    "content": "# Docker课程6章6\n\nDocker课程6章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0072"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-072",
+    "courseId": "dk-course-06",
+    "order": 7,
+    "title": "Docker课程6章7",
+    "slug": "Docker课程6章7",
+    "summary": "Docker课程6章7学习",
+    "content": "# Docker课程6章7\n\nDocker课程6章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0073"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-073",
+    "courseId": "dk-course-06",
+    "order": 8,
+    "title": "Docker课程6章8",
+    "slug": "Docker课程6章8",
+    "summary": "Docker课程6章8学习",
+    "content": "# Docker课程6章8\n\nDocker课程6章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0074"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-074",
+    "courseId": "dk-course-06",
+    "order": 9,
+    "title": "Docker课程6章9",
+    "slug": "Docker课程6章9",
+    "summary": "Docker课程6章9学习",
+    "content": "# Docker课程6章9\n\nDocker课程6章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0075"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-075",
+    "courseId": "dk-course-06",
+    "order": 10,
+    "title": "Docker课程6章10",
+    "slug": "Docker课程6章10",
+    "summary": "Docker课程6章10学习",
+    "content": "# Docker课程6章10\n\nDocker课程6章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0076"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-076",
+    "courseId": "dk-course-06",
+    "order": 11,
+    "title": "Docker课程6章11",
+    "slug": "Docker课程6章11",
+    "summary": "Docker课程6章11学习",
+    "content": "# Docker课程6章11\n\nDocker课程6章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0077"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-077",
+    "courseId": "dk-course-06",
+    "order": 12,
+    "title": "Docker课程6章12",
+    "slug": "Docker课程6章12",
+    "summary": "Docker课程6章12学习",
+    "content": "# Docker课程6章12\n\nDocker课程6章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0078"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-078",
+    "courseId": "dk-course-06",
+    "order": 13,
+    "title": "Docker课程6章13",
+    "slug": "Docker课程6章13",
+    "summary": "Docker课程6章13学习",
+    "content": "# Docker课程6章13\n\nDocker课程6章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程6章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0079"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-079",
+    "courseId": "dk-course-07",
+    "order": 1,
+    "title": "Docker课程7章1",
+    "slug": "Docker课程7章1",
+    "summary": "Docker课程7章1学习",
+    "content": "# Docker课程7章1\n\nDocker课程7章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0080"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-080",
+    "courseId": "dk-course-07",
+    "order": 2,
+    "title": "Docker课程7章2",
+    "slug": "Docker课程7章2",
+    "summary": "Docker课程7章2学习",
+    "content": "# Docker课程7章2\n\nDocker课程7章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0081"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-081",
+    "courseId": "dk-course-07",
+    "order": 3,
+    "title": "Docker课程7章3",
+    "slug": "Docker课程7章3",
+    "summary": "Docker课程7章3学习",
+    "content": "# Docker课程7章3\n\nDocker课程7章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0082"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-082",
+    "courseId": "dk-course-07",
+    "order": 4,
+    "title": "Docker课程7章4",
+    "slug": "Docker课程7章4",
+    "summary": "Docker课程7章4学习",
+    "content": "# Docker课程7章4\n\nDocker课程7章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0083"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-083",
+    "courseId": "dk-course-07",
+    "order": 5,
+    "title": "Docker课程7章5",
+    "slug": "Docker课程7章5",
+    "summary": "Docker课程7章5学习",
+    "content": "# Docker课程7章5\n\nDocker课程7章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0084"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-084",
+    "courseId": "dk-course-07",
+    "order": 6,
+    "title": "Docker课程7章6",
+    "slug": "Docker课程7章6",
+    "summary": "Docker课程7章6学习",
+    "content": "# Docker课程7章6\n\nDocker课程7章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0085"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-085",
+    "courseId": "dk-course-07",
+    "order": 7,
+    "title": "Docker课程7章7",
+    "slug": "Docker课程7章7",
+    "summary": "Docker课程7章7学习",
+    "content": "# Docker课程7章7\n\nDocker课程7章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0086"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-086",
+    "courseId": "dk-course-07",
+    "order": 8,
+    "title": "Docker课程7章8",
+    "slug": "Docker课程7章8",
+    "summary": "Docker课程7章8学习",
+    "content": "# Docker课程7章8\n\nDocker课程7章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0087"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-087",
+    "courseId": "dk-course-07",
+    "order": 9,
+    "title": "Docker课程7章9",
+    "slug": "Docker课程7章9",
+    "summary": "Docker课程7章9学习",
+    "content": "# Docker课程7章9\n\nDocker课程7章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0088"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-088",
+    "courseId": "dk-course-07",
+    "order": 10,
+    "title": "Docker课程7章10",
+    "slug": "Docker课程7章10",
+    "summary": "Docker课程7章10学习",
+    "content": "# Docker课程7章10\n\nDocker课程7章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0089"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-089",
+    "courseId": "dk-course-07",
+    "order": 11,
+    "title": "Docker课程7章11",
+    "slug": "Docker课程7章11",
+    "summary": "Docker课程7章11学习",
+    "content": "# Docker课程7章11\n\nDocker课程7章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0090"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-090",
+    "courseId": "dk-course-07",
+    "order": 12,
+    "title": "Docker课程7章12",
+    "slug": "Docker课程7章12",
+    "summary": "Docker课程7章12学习",
+    "content": "# Docker课程7章12\n\nDocker课程7章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0091"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-091",
+    "courseId": "dk-course-07",
+    "order": 13,
+    "title": "Docker课程7章13",
+    "slug": "Docker课程7章13",
+    "summary": "Docker课程7章13学习",
+    "content": "# Docker课程7章13\n\nDocker课程7章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程7章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0092"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-092",
+    "courseId": "dk-course-08",
+    "order": 1,
+    "title": "Docker课程8章1",
+    "slug": "Docker课程8章1",
+    "summary": "Docker课程8章1学习",
+    "content": "# Docker课程8章1\n\nDocker课程8章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0093"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-093",
+    "courseId": "dk-course-08",
+    "order": 2,
+    "title": "Docker课程8章2",
+    "slug": "Docker课程8章2",
+    "summary": "Docker课程8章2学习",
+    "content": "# Docker课程8章2\n\nDocker课程8章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0094"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-094",
+    "courseId": "dk-course-08",
+    "order": 3,
+    "title": "Docker课程8章3",
+    "slug": "Docker课程8章3",
+    "summary": "Docker课程8章3学习",
+    "content": "# Docker课程8章3\n\nDocker课程8章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0095"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-095",
+    "courseId": "dk-course-08",
+    "order": 4,
+    "title": "Docker课程8章4",
+    "slug": "Docker课程8章4",
+    "summary": "Docker课程8章4学习",
+    "content": "# Docker课程8章4\n\nDocker课程8章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0096"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-096",
+    "courseId": "dk-course-08",
+    "order": 5,
+    "title": "Docker课程8章5",
+    "slug": "Docker课程8章5",
+    "summary": "Docker课程8章5学习",
+    "content": "# Docker课程8章5\n\nDocker课程8章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0097"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-097",
+    "courseId": "dk-course-08",
+    "order": 6,
+    "title": "Docker课程8章6",
+    "slug": "Docker课程8章6",
+    "summary": "Docker课程8章6学习",
+    "content": "# Docker课程8章6\n\nDocker课程8章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0098"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-098",
+    "courseId": "dk-course-08",
+    "order": 7,
+    "title": "Docker课程8章7",
+    "slug": "Docker课程8章7",
+    "summary": "Docker课程8章7学习",
+    "content": "# Docker课程8章7\n\nDocker课程8章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0099"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-099",
+    "courseId": "dk-course-08",
+    "order": 8,
+    "title": "Docker课程8章8",
+    "slug": "Docker课程8章8",
+    "summary": "Docker课程8章8学习",
+    "content": "# Docker课程8章8\n\nDocker课程8章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0100"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-100",
+    "courseId": "dk-course-08",
+    "order": 9,
+    "title": "Docker课程8章9",
+    "slug": "Docker课程8章9",
+    "summary": "Docker课程8章9学习",
+    "content": "# Docker课程8章9\n\nDocker课程8章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0101"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-101",
+    "courseId": "dk-course-08",
+    "order": 10,
+    "title": "Docker课程8章10",
+    "slug": "Docker课程8章10",
+    "summary": "Docker课程8章10学习",
+    "content": "# Docker课程8章10\n\nDocker课程8章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0102"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-102",
+    "courseId": "dk-course-08",
+    "order": 11,
+    "title": "Docker课程8章11",
+    "slug": "Docker课程8章11",
+    "summary": "Docker课程8章11学习",
+    "content": "# Docker课程8章11\n\nDocker课程8章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0103"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-103",
+    "courseId": "dk-course-08",
+    "order": 12,
+    "title": "Docker课程8章12",
+    "slug": "Docker课程8章12",
+    "summary": "Docker课程8章12学习",
+    "content": "# Docker课程8章12\n\nDocker课程8章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0104"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-104",
+    "courseId": "dk-course-08",
+    "order": 13,
+    "title": "Docker课程8章13",
+    "slug": "Docker课程8章13",
+    "summary": "Docker课程8章13学习",
+    "content": "# Docker课程8章13\n\nDocker课程8章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程8章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0105"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-105",
+    "courseId": "dk-course-09",
+    "order": 1,
+    "title": "Docker课程9章1",
+    "slug": "Docker课程9章1",
+    "summary": "Docker课程9章1学习",
+    "content": "# Docker课程9章1\n\nDocker课程9章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0106"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-106",
+    "courseId": "dk-course-09",
+    "order": 2,
+    "title": "Docker课程9章2",
+    "slug": "Docker课程9章2",
+    "summary": "Docker课程9章2学习",
+    "content": "# Docker课程9章2\n\nDocker课程9章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0107"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-107",
+    "courseId": "dk-course-09",
+    "order": 3,
+    "title": "Docker课程9章3",
+    "slug": "Docker课程9章3",
+    "summary": "Docker课程9章3学习",
+    "content": "# Docker课程9章3\n\nDocker课程9章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0108"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-108",
+    "courseId": "dk-course-09",
+    "order": 4,
+    "title": "Docker课程9章4",
+    "slug": "Docker课程9章4",
+    "summary": "Docker课程9章4学习",
+    "content": "# Docker课程9章4\n\nDocker课程9章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0109"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-109",
+    "courseId": "dk-course-09",
+    "order": 5,
+    "title": "Docker课程9章5",
+    "slug": "Docker课程9章5",
+    "summary": "Docker课程9章5学习",
+    "content": "# Docker课程9章5\n\nDocker课程9章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0110"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-110",
+    "courseId": "dk-course-09",
+    "order": 6,
+    "title": "Docker课程9章6",
+    "slug": "Docker课程9章6",
+    "summary": "Docker课程9章6学习",
+    "content": "# Docker课程9章6\n\nDocker课程9章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0111"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-111",
+    "courseId": "dk-course-09",
+    "order": 7,
+    "title": "Docker课程9章7",
+    "slug": "Docker课程9章7",
+    "summary": "Docker课程9章7学习",
+    "content": "# Docker课程9章7\n\nDocker课程9章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0112"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-112",
+    "courseId": "dk-course-09",
+    "order": 8,
+    "title": "Docker课程9章8",
+    "slug": "Docker课程9章8",
+    "summary": "Docker课程9章8学习",
+    "content": "# Docker课程9章8\n\nDocker课程9章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0113"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-113",
+    "courseId": "dk-course-09",
+    "order": 9,
+    "title": "Docker课程9章9",
+    "slug": "Docker课程9章9",
+    "summary": "Docker课程9章9学习",
+    "content": "# Docker课程9章9\n\nDocker课程9章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0114"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-114",
+    "courseId": "dk-course-09",
+    "order": 10,
+    "title": "Docker课程9章10",
+    "slug": "Docker课程9章10",
+    "summary": "Docker课程9章10学习",
+    "content": "# Docker课程9章10\n\nDocker课程9章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0115"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-115",
+    "courseId": "dk-course-09",
+    "order": 11,
+    "title": "Docker课程9章11",
+    "slug": "Docker课程9章11",
+    "summary": "Docker课程9章11学习",
+    "content": "# Docker课程9章11\n\nDocker课程9章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0116"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-116",
+    "courseId": "dk-course-09",
+    "order": 12,
+    "title": "Docker课程9章12",
+    "slug": "Docker课程9章12",
+    "summary": "Docker课程9章12学习",
+    "content": "# Docker课程9章12\n\nDocker课程9章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0117"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-117",
+    "courseId": "dk-course-09",
+    "order": 13,
+    "title": "Docker课程9章13",
+    "slug": "Docker课程9章13",
+    "summary": "Docker课程9章13学习",
+    "content": "# Docker课程9章13\n\nDocker课程9章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程9章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0118"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-118",
+    "courseId": "dk-course-10",
+    "order": 1,
+    "title": "Docker课程10章1",
+    "slug": "Docker课程10章1",
+    "summary": "Docker课程10章1学习",
+    "content": "# Docker课程10章1\n\nDocker课程10章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0119"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-119",
+    "courseId": "dk-course-10",
+    "order": 2,
+    "title": "Docker课程10章2",
+    "slug": "Docker课程10章2",
+    "summary": "Docker课程10章2学习",
+    "content": "# Docker课程10章2\n\nDocker课程10章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0120"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-120",
+    "courseId": "dk-course-10",
+    "order": 3,
+    "title": "Docker课程10章3",
+    "slug": "Docker课程10章3",
+    "summary": "Docker课程10章3学习",
+    "content": "# Docker课程10章3\n\nDocker课程10章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0121"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-121",
+    "courseId": "dk-course-10",
+    "order": 4,
+    "title": "Docker课程10章4",
+    "slug": "Docker课程10章4",
+    "summary": "Docker课程10章4学习",
+    "content": "# Docker课程10章4\n\nDocker课程10章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0122"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-122",
+    "courseId": "dk-course-10",
+    "order": 5,
+    "title": "Docker课程10章5",
+    "slug": "Docker课程10章5",
+    "summary": "Docker课程10章5学习",
+    "content": "# Docker课程10章5\n\nDocker课程10章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0123"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-123",
+    "courseId": "dk-course-10",
+    "order": 6,
+    "title": "Docker课程10章6",
+    "slug": "Docker课程10章6",
+    "summary": "Docker课程10章6学习",
+    "content": "# Docker课程10章6\n\nDocker课程10章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0124"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-124",
+    "courseId": "dk-course-10",
+    "order": 7,
+    "title": "Docker课程10章7",
+    "slug": "Docker课程10章7",
+    "summary": "Docker课程10章7学习",
+    "content": "# Docker课程10章7\n\nDocker课程10章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0125"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-125",
+    "courseId": "dk-course-10",
+    "order": 8,
+    "title": "Docker课程10章8",
+    "slug": "Docker课程10章8",
+    "summary": "Docker课程10章8学习",
+    "content": "# Docker课程10章8\n\nDocker课程10章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0126"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-126",
+    "courseId": "dk-course-10",
+    "order": 9,
+    "title": "Docker课程10章9",
+    "slug": "Docker课程10章9",
+    "summary": "Docker课程10章9学习",
+    "content": "# Docker课程10章9\n\nDocker课程10章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0127"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-127",
+    "courseId": "dk-course-10",
+    "order": 10,
+    "title": "Docker课程10章10",
+    "slug": "Docker课程10章10",
+    "summary": "Docker课程10章10学习",
+    "content": "# Docker课程10章10\n\nDocker课程10章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0128"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-128",
+    "courseId": "dk-course-10",
+    "order": 11,
+    "title": "Docker课程10章11",
+    "slug": "Docker课程10章11",
+    "summary": "Docker课程10章11学习",
+    "content": "# Docker课程10章11\n\nDocker课程10章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0129"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-129",
+    "courseId": "dk-course-10",
+    "order": 12,
+    "title": "Docker课程10章12",
+    "slug": "Docker课程10章12",
+    "summary": "Docker课程10章12学习",
+    "content": "# Docker课程10章12\n\nDocker课程10章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [
+      "dk-kp-0130"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-130",
+    "courseId": "dk-course-10",
+    "order": 13,
+    "title": "Docker课程10章13",
+    "slug": "Docker课程10章13",
+    "summary": "Docker课程10章13学习",
+    "content": "# Docker课程10章13\n\nDocker课程10章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程10章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0131"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-131",
+    "courseId": "dk-course-11",
+    "order": 1,
+    "title": "Docker课程11章1",
+    "slug": "Docker课程11章1",
+    "summary": "Docker课程11章1学习",
+    "content": "# Docker课程11章1\n\nDocker课程11章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0132"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-132",
+    "courseId": "dk-course-11",
+    "order": 2,
+    "title": "Docker课程11章2",
+    "slug": "Docker课程11章2",
+    "summary": "Docker课程11章2学习",
+    "content": "# Docker课程11章2\n\nDocker课程11章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0133"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-133",
+    "courseId": "dk-course-11",
+    "order": 3,
+    "title": "Docker课程11章3",
+    "slug": "Docker课程11章3",
+    "summary": "Docker课程11章3学习",
+    "content": "# Docker课程11章3\n\nDocker课程11章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0134"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-134",
+    "courseId": "dk-course-11",
+    "order": 4,
+    "title": "Docker课程11章4",
+    "slug": "Docker课程11章4",
+    "summary": "Docker课程11章4学习",
+    "content": "# Docker课程11章4\n\nDocker课程11章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0135"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-135",
+    "courseId": "dk-course-11",
+    "order": 5,
+    "title": "Docker课程11章5",
+    "slug": "Docker课程11章5",
+    "summary": "Docker课程11章5学习",
+    "content": "# Docker课程11章5\n\nDocker课程11章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0136"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-136",
+    "courseId": "dk-course-11",
+    "order": 6,
+    "title": "Docker课程11章6",
+    "slug": "Docker课程11章6",
+    "summary": "Docker课程11章6学习",
+    "content": "# Docker课程11章6\n\nDocker课程11章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0137"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-137",
+    "courseId": "dk-course-11",
+    "order": 7,
+    "title": "Docker课程11章7",
+    "slug": "Docker课程11章7",
+    "summary": "Docker课程11章7学习",
+    "content": "# Docker课程11章7\n\nDocker课程11章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0138"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-138",
+    "courseId": "dk-course-11",
+    "order": 8,
+    "title": "Docker课程11章8",
+    "slug": "Docker课程11章8",
+    "summary": "Docker课程11章8学习",
+    "content": "# Docker课程11章8\n\nDocker课程11章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0139"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-139",
+    "courseId": "dk-course-11",
+    "order": 9,
+    "title": "Docker课程11章9",
+    "slug": "Docker课程11章9",
+    "summary": "Docker课程11章9学习",
+    "content": "# Docker课程11章9\n\nDocker课程11章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0140"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-140",
+    "courseId": "dk-course-11",
+    "order": 10,
+    "title": "Docker课程11章10",
+    "slug": "Docker课程11章10",
+    "summary": "Docker课程11章10学习",
+    "content": "# Docker课程11章10\n\nDocker课程11章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0141"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-141",
+    "courseId": "dk-course-11",
+    "order": 11,
+    "title": "Docker课程11章11",
+    "slug": "Docker课程11章11",
+    "summary": "Docker课程11章11学习",
+    "content": "# Docker课程11章11\n\nDocker课程11章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0142"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-142",
+    "courseId": "dk-course-11",
+    "order": 12,
+    "title": "Docker课程11章12",
+    "slug": "Docker课程11章12",
+    "summary": "Docker课程11章12学习",
+    "content": "# Docker课程11章12\n\nDocker课程11章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0143"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-143",
+    "courseId": "dk-course-11",
+    "order": 13,
+    "title": "Docker课程11章13",
+    "slug": "Docker课程11章13",
+    "summary": "Docker课程11章13学习",
+    "content": "# Docker课程11章13\n\nDocker课程11章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程11章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0144"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-144",
+    "courseId": "dk-course-12",
+    "order": 1,
+    "title": "Docker课程12章1",
+    "slug": "Docker课程12章1",
+    "summary": "Docker课程12章1学习",
+    "content": "# Docker课程12章1\n\nDocker课程12章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0145"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-145",
+    "courseId": "dk-course-12",
+    "order": 2,
+    "title": "Docker课程12章2",
+    "slug": "Docker课程12章2",
+    "summary": "Docker课程12章2学习",
+    "content": "# Docker课程12章2\n\nDocker课程12章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0146"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-146",
+    "courseId": "dk-course-12",
+    "order": 3,
+    "title": "Docker课程12章3",
+    "slug": "Docker课程12章3",
+    "summary": "Docker课程12章3学习",
+    "content": "# Docker课程12章3\n\nDocker课程12章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0147"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-147",
+    "courseId": "dk-course-12",
+    "order": 4,
+    "title": "Docker课程12章4",
+    "slug": "Docker课程12章4",
+    "summary": "Docker课程12章4学习",
+    "content": "# Docker课程12章4\n\nDocker课程12章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0148"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-148",
+    "courseId": "dk-course-12",
+    "order": 5,
+    "title": "Docker课程12章5",
+    "slug": "Docker课程12章5",
+    "summary": "Docker课程12章5学习",
+    "content": "# Docker课程12章5\n\nDocker课程12章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0149"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-149",
+    "courseId": "dk-course-12",
+    "order": 6,
+    "title": "Docker课程12章6",
+    "slug": "Docker课程12章6",
+    "summary": "Docker课程12章6学习",
+    "content": "# Docker课程12章6\n\nDocker课程12章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0150"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-150",
+    "courseId": "dk-course-12",
+    "order": 7,
+    "title": "Docker课程12章7",
+    "slug": "Docker课程12章7",
+    "summary": "Docker课程12章7学习",
+    "content": "# Docker课程12章7\n\nDocker课程12章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0151"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-151",
+    "courseId": "dk-course-12",
+    "order": 8,
+    "title": "Docker课程12章8",
+    "slug": "Docker课程12章8",
+    "summary": "Docker课程12章8学习",
+    "content": "# Docker课程12章8\n\nDocker课程12章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0152"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-152",
+    "courseId": "dk-course-12",
+    "order": 9,
+    "title": "Docker课程12章9",
+    "slug": "Docker课程12章9",
+    "summary": "Docker课程12章9学习",
+    "content": "# Docker课程12章9\n\nDocker课程12章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0153"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-153",
+    "courseId": "dk-course-12",
+    "order": 10,
+    "title": "Docker课程12章10",
+    "slug": "Docker课程12章10",
+    "summary": "Docker课程12章10学习",
+    "content": "# Docker课程12章10\n\nDocker课程12章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0154"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-154",
+    "courseId": "dk-course-12",
+    "order": 11,
+    "title": "Docker课程12章11",
+    "slug": "Docker课程12章11",
+    "summary": "Docker课程12章11学习",
+    "content": "# Docker课程12章11\n\nDocker课程12章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0155"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-155",
+    "courseId": "dk-course-12",
+    "order": 12,
+    "title": "Docker课程12章12",
+    "slug": "Docker课程12章12",
+    "summary": "Docker课程12章12学习",
+    "content": "# Docker课程12章12\n\nDocker课程12章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0156"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-156",
+    "courseId": "dk-course-12",
+    "order": 13,
+    "title": "Docker课程12章13",
+    "slug": "Docker课程12章13",
+    "summary": "Docker课程12章13学习",
+    "content": "# Docker课程12章13\n\nDocker课程12章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程12章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0157"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-157",
+    "courseId": "dk-course-13",
+    "order": 1,
+    "title": "Docker课程13章1",
+    "slug": "Docker课程13章1",
+    "summary": "Docker课程13章1学习",
+    "content": "# Docker课程13章1\n\nDocker课程13章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0158"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-158",
+    "courseId": "dk-course-13",
+    "order": 2,
+    "title": "Docker课程13章2",
+    "slug": "Docker课程13章2",
+    "summary": "Docker课程13章2学习",
+    "content": "# Docker课程13章2\n\nDocker课程13章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0159"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-159",
+    "courseId": "dk-course-13",
+    "order": 3,
+    "title": "Docker课程13章3",
+    "slug": "Docker课程13章3",
+    "summary": "Docker课程13章3学习",
+    "content": "# Docker课程13章3\n\nDocker课程13章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0160"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-160",
+    "courseId": "dk-course-13",
+    "order": 4,
+    "title": "Docker课程13章4",
+    "slug": "Docker课程13章4",
+    "summary": "Docker课程13章4学习",
+    "content": "# Docker课程13章4\n\nDocker课程13章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0161"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-161",
+    "courseId": "dk-course-13",
+    "order": 5,
+    "title": "Docker课程13章5",
+    "slug": "Docker课程13章5",
+    "summary": "Docker课程13章5学习",
+    "content": "# Docker课程13章5\n\nDocker课程13章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0162"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-162",
+    "courseId": "dk-course-13",
+    "order": 6,
+    "title": "Docker课程13章6",
+    "slug": "Docker课程13章6",
+    "summary": "Docker课程13章6学习",
+    "content": "# Docker课程13章6\n\nDocker课程13章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0163"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-163",
+    "courseId": "dk-course-13",
+    "order": 7,
+    "title": "Docker课程13章7",
+    "slug": "Docker课程13章7",
+    "summary": "Docker课程13章7学习",
+    "content": "# Docker课程13章7\n\nDocker课程13章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0164"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-164",
+    "courseId": "dk-course-13",
+    "order": 8,
+    "title": "Docker课程13章8",
+    "slug": "Docker课程13章8",
+    "summary": "Docker课程13章8学习",
+    "content": "# Docker课程13章8\n\nDocker课程13章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0165"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-165",
+    "courseId": "dk-course-13",
+    "order": 9,
+    "title": "Docker课程13章9",
+    "slug": "Docker课程13章9",
+    "summary": "Docker课程13章9学习",
+    "content": "# Docker课程13章9\n\nDocker课程13章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0166"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-166",
+    "courseId": "dk-course-13",
+    "order": 10,
+    "title": "Docker课程13章10",
+    "slug": "Docker课程13章10",
+    "summary": "Docker课程13章10学习",
+    "content": "# Docker课程13章10\n\nDocker课程13章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0167"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-167",
+    "courseId": "dk-course-13",
+    "order": 11,
+    "title": "Docker课程13章11",
+    "slug": "Docker课程13章11",
+    "summary": "Docker课程13章11学习",
+    "content": "# Docker课程13章11\n\nDocker课程13章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0168"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-168",
+    "courseId": "dk-course-13",
+    "order": 12,
+    "title": "Docker课程13章12",
+    "slug": "Docker课程13章12",
+    "summary": "Docker课程13章12学习",
+    "content": "# Docker课程13章12\n\nDocker课程13章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0169"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-169",
+    "courseId": "dk-course-13",
+    "order": 13,
+    "title": "Docker课程13章13",
+    "slug": "Docker课程13章13",
+    "summary": "Docker课程13章13学习",
+    "content": "# Docker课程13章13\n\nDocker课程13章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程13章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0170"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-170",
+    "courseId": "dk-course-14",
+    "order": 1,
+    "title": "Docker课程14章1",
+    "slug": "Docker课程14章1",
+    "summary": "Docker课程14章1学习",
+    "content": "# Docker课程14章1\n\nDocker课程14章1内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章1提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0171"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-171",
+    "courseId": "dk-course-14",
+    "order": 2,
+    "title": "Docker课程14章2",
+    "slug": "Docker课程14章2",
+    "summary": "Docker课程14章2学习",
+    "content": "# Docker课程14章2\n\nDocker课程14章2内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章2提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0172"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-172",
+    "courseId": "dk-course-14",
+    "order": 3,
+    "title": "Docker课程14章3",
+    "slug": "Docker课程14章3",
+    "summary": "Docker课程14章3学习",
+    "content": "# Docker课程14章3\n\nDocker课程14章3内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章3提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0173"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-173",
+    "courseId": "dk-course-14",
+    "order": 4,
+    "title": "Docker课程14章4",
+    "slug": "Docker课程14章4",
+    "summary": "Docker课程14章4学习",
+    "content": "# Docker课程14章4\n\nDocker课程14章4内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章4提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0174"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-174",
+    "courseId": "dk-course-14",
+    "order": 5,
+    "title": "Docker课程14章5",
+    "slug": "Docker课程14章5",
+    "summary": "Docker课程14章5学习",
+    "content": "# Docker课程14章5\n\nDocker课程14章5内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章5提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0175"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-175",
+    "courseId": "dk-course-14",
+    "order": 6,
+    "title": "Docker课程14章6",
+    "slug": "Docker课程14章6",
+    "summary": "Docker课程14章6学习",
+    "content": "# Docker课程14章6\n\nDocker课程14章6内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章6提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0176"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-176",
+    "courseId": "dk-course-14",
+    "order": 7,
+    "title": "Docker课程14章7",
+    "slug": "Docker课程14章7",
+    "summary": "Docker课程14章7学习",
+    "content": "# Docker课程14章7\n\nDocker课程14章7内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章7提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0177"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-177",
+    "courseId": "dk-course-14",
+    "order": 8,
+    "title": "Docker课程14章8",
+    "slug": "Docker课程14章8",
+    "summary": "Docker课程14章8学习",
+    "content": "# Docker课程14章8\n\nDocker课程14章8内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章8提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0178"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-178",
+    "courseId": "dk-course-14",
+    "order": 9,
+    "title": "Docker课程14章9",
+    "slug": "Docker课程14章9",
+    "summary": "Docker课程14章9学习",
+    "content": "# Docker课程14章9\n\nDocker课程14章9内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章9提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0179"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-179",
+    "courseId": "dk-course-14",
+    "order": 10,
+    "title": "Docker课程14章10",
+    "slug": "Docker课程14章10",
+    "summary": "Docker课程14章10学习",
+    "content": "# Docker课程14章10\n\nDocker课程14章10内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章10提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0180"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-180",
+    "courseId": "dk-course-14",
+    "order": 11,
+    "title": "Docker课程14章11",
+    "slug": "Docker课程14章11",
+    "summary": "Docker课程14章11学习",
+    "content": "# Docker课程14章11\n\nDocker课程14章11内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章11提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0181"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-181",
+    "courseId": "dk-course-14",
+    "order": 12,
+    "title": "Docker课程14章12",
+    "slug": "Docker课程14章12",
+    "summary": "Docker课程14章12学习",
+    "content": "# Docker课程14章12\n\nDocker课程14章12内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章12提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0182"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "dk-lesson-182",
+    "courseId": "dk-course-14",
+    "order": 13,
+    "title": "Docker课程14章13",
+    "slug": "Docker课程14章13",
+    "summary": "Docker课程14章13学习",
+    "content": "# Docker课程14章13\n\nDocker课程14章13内容。\n\n## 要点\n- 概念\n- 操作\n- 注意事项\n\n## 总结\n掌握Docker课程14章13提高效率。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [
+      "dk-kp-0183"
+    ],
+    "practiceQuestionIds": [],
+    "tags": [
+      "Docker"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
