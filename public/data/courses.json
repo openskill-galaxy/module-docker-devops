@@ -34,7 +34,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-001",
+      "dk-lesson-002",
+      "dk-lesson-003",
+      "dk-lesson-004",
+      "dk-lesson-005",
+      "dk-lesson-006",
+      "dk-lesson-007",
+      "dk-lesson-008",
+      "dk-lesson-009",
+      "dk-lesson-010",
+      "dk-lesson-011",
+      "dk-lesson-012",
+      "dk-lesson-013"
+    ],
+    "summary": "Docker概述、容器化思想、DevOps理念、学习路线。"
   },
   {
     "id": "dk-course-02",
@@ -71,7 +87,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-014",
+      "dk-lesson-015",
+      "dk-lesson-016",
+      "dk-lesson-017",
+      "dk-lesson-018",
+      "dk-lesson-019",
+      "dk-lesson-020",
+      "dk-lesson-021",
+      "dk-lesson-022",
+      "dk-lesson-023",
+      "dk-lesson-024",
+      "dk-lesson-025",
+      "dk-lesson-026"
+    ],
+    "summary": "容器vs虚拟机、隔离原理、Namespace/Cgroups。"
   },
   {
     "id": "dk-course-03",
@@ -108,7 +140,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-027",
+      "dk-lesson-028",
+      "dk-lesson-029",
+      "dk-lesson-030",
+      "dk-lesson-031",
+      "dk-lesson-032",
+      "dk-lesson-033",
+      "dk-lesson-034",
+      "dk-lesson-035",
+      "dk-lesson-036",
+      "dk-lesson-037",
+      "dk-lesson-038",
+      "dk-lesson-039"
+    ],
+    "summary": "Docker安装、daemon配置、常用命令。"
   },
   {
     "id": "dk-course-04",
@@ -145,7 +193,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-040",
+      "dk-lesson-041",
+      "dk-lesson-042",
+      "dk-lesson-043",
+      "dk-lesson-044",
+      "dk-lesson-045",
+      "dk-lesson-046",
+      "dk-lesson-047",
+      "dk-lesson-048",
+      "dk-lesson-049",
+      "dk-lesson-050",
+      "dk-lesson-051",
+      "dk-lesson-052"
+    ],
+    "summary": "镜像分层、容器生命周期、仓库管理。"
   },
   {
     "id": "dk-course-05",
@@ -182,7 +246,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-053",
+      "dk-lesson-054",
+      "dk-lesson-055",
+      "dk-lesson-056",
+      "dk-lesson-057",
+      "dk-lesson-058",
+      "dk-lesson-059",
+      "dk-lesson-060",
+      "dk-lesson-061",
+      "dk-lesson-062",
+      "dk-lesson-063",
+      "dk-lesson-064",
+      "dk-lesson-065"
+    ],
+    "summary": "FROM/RUN/COPY/CMD/ENTRYPOINT/WORKDIR/EXPOSE。"
   },
   {
     "id": "dk-course-06",
@@ -219,7 +299,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-066",
+      "dk-lesson-067",
+      "dk-lesson-068",
+      "dk-lesson-069",
+      "dk-lesson-070",
+      "dk-lesson-071",
+      "dk-lesson-072",
+      "dk-lesson-073",
+      "dk-lesson-074",
+      "dk-lesson-075",
+      "dk-lesson-076",
+      "dk-lesson-077",
+      "dk-lesson-078"
+    ],
+    "summary": "构建缓存、多阶段构建、镜像瘦身。"
   },
   {
     "id": "dk-course-07",
@@ -256,7 +352,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-079",
+      "dk-lesson-080",
+      "dk-lesson-081",
+      "dk-lesson-082",
+      "dk-lesson-083",
+      "dk-lesson-084",
+      "dk-lesson-085",
+      "dk-lesson-086",
+      "dk-lesson-087",
+      "dk-lesson-088",
+      "dk-lesson-089",
+      "dk-lesson-090",
+      "dk-lesson-091"
+    ],
+    "summary": "volume/bind mount/tmpfs、持久化方案。"
   },
   {
     "id": "dk-course-08",
@@ -293,7 +405,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-092",
+      "dk-lesson-093",
+      "dk-lesson-094",
+      "dk-lesson-095",
+      "dk-lesson-096",
+      "dk-lesson-097",
+      "dk-lesson-098",
+      "dk-lesson-099",
+      "dk-lesson-100",
+      "dk-lesson-101",
+      "dk-lesson-102",
+      "dk-lesson-103",
+      "dk-lesson-104"
+    ],
+    "summary": "bridge/host/none网络、端口映射、容器通信。"
   },
   {
     "id": "dk-course-09",
@@ -330,7 +458,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-105",
+      "dk-lesson-106",
+      "dk-lesson-107",
+      "dk-lesson-108",
+      "dk-lesson-109",
+      "dk-lesson-110",
+      "dk-lesson-111",
+      "dk-lesson-112",
+      "dk-lesson-113",
+      "dk-lesson-114",
+      "dk-lesson-115",
+      "dk-lesson-116",
+      "dk-lesson-117"
+    ],
+    "summary": "compose.yml编写、多服务编排、依赖管理。"
   },
   {
     "id": "dk-course-10",
@@ -367,7 +511,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-118",
+      "dk-lesson-119",
+      "dk-lesson-120",
+      "dk-lesson-121",
+      "dk-lesson-122",
+      "dk-lesson-123",
+      "dk-lesson-124",
+      "dk-lesson-125",
+      "dk-lesson-126",
+      "dk-lesson-127",
+      "dk-lesson-128",
+      "dk-lesson-129",
+      "dk-lesson-130"
+    ],
+    "summary": "ENV/ARG/env_file、日志查看与管理。"
   },
   {
     "id": "dk-course-11",
@@ -404,7 +564,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-131",
+      "dk-lesson-132",
+      "dk-lesson-133",
+      "dk-lesson-134",
+      "dk-lesson-135",
+      "dk-lesson-136",
+      "dk-lesson-137",
+      "dk-lesson-138",
+      "dk-lesson-139",
+      "dk-lesson-140",
+      "dk-lesson-141",
+      "dk-lesson-142",
+      "dk-lesson-143"
+    ],
+    "summary": "Actions工作流、构建镜像、发布到仓库。"
   },
   {
     "id": "dk-course-12",
@@ -441,7 +617,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-144",
+      "dk-lesson-145",
+      "dk-lesson-146",
+      "dk-lesson-147",
+      "dk-lesson-148",
+      "dk-lesson-149",
+      "dk-lesson-150",
+      "dk-lesson-151",
+      "dk-lesson-152",
+      "dk-lesson-153",
+      "dk-lesson-154",
+      "dk-lesson-155",
+      "dk-lesson-156"
+    ],
+    "summary": "Nginx/Node/SpringBoot/MySQL容器化。"
   },
   {
     "id": "dk-course-13",
@@ -478,7 +670,23 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-157",
+      "dk-lesson-158",
+      "dk-lesson-159",
+      "dk-lesson-160",
+      "dk-lesson-161",
+      "dk-lesson-162",
+      "dk-lesson-163",
+      "dk-lesson-164",
+      "dk-lesson-165",
+      "dk-lesson-166",
+      "dk-lesson-167",
+      "dk-lesson-168",
+      "dk-lesson-169"
+    ],
+    "summary": "镜像安全扫描、常见排错、资源限制。"
   },
   {
     "id": "dk-course-14",
@@ -515,6 +723,22 @@
       "会用Compose编排",
       "理解DevOps流程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "dk-lesson-170",
+      "dk-lesson-171",
+      "dk-lesson-172",
+      "dk-lesson-173",
+      "dk-lesson-174",
+      "dk-lesson-175",
+      "dk-lesson-176",
+      "dk-lesson-177",
+      "dk-lesson-178",
+      "dk-lesson-179",
+      "dk-lesson-180",
+      "dk-lesson-181",
+      "dk-lesson-182"
+    ],
+    "summary": "微服务部署、DevOps流程、面试题。"
   }
 ]
